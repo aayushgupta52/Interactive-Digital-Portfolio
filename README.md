@@ -4,12 +4,16 @@ An interactive, responsive digital portfolio website built using HTML, CSS, and 
 This portfolio showcases projects, skills, resume, and contact details with dynamic UI elements
 and smooth animations to enhance user experience
 
+
+
 📬 Contact
 For suggestions, feedback, or collaborations:
 📧 iguptaaayush09@gmail.com
 
 🌐 Portfolio Url
 http://127.0.0.1:5501/index.html 
+
+
 
 
 🚀 Features
@@ -22,6 +26,9 @@ Animated Sections – Elements fade in or animate on scroll.
 Skills Section – Visual representation of technical skills.
 
 Contact Form – Validated contact form (JavaScript).
+
+
+
 
 🛠️ Built With
 
@@ -41,6 +48,9 @@ portfolio/
 ├── images/                 # Project screenshots and assets
 ├── projects/               # (Optional) Individual project pages
 └── README.md               # Project overview
+
+
+
 
 
 🔧 How to Use
