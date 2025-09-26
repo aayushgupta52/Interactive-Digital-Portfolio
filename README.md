@@ -10,11 +10,6 @@ and smooth animations to enhance user experience
 For suggestions, feedback, or collaborations:
 📧 iguptaaayush09@gmail.com
 
-🌐 Portfolio Url
-http://127.0.0.1:5501/index.html 
-
-
-
 
 🚀 Features
 Responsive Design – Fully functional on desktop, tablet, and mobile.
